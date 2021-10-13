@@ -1,0 +1,8 @@
+{
+  "dependencies": {
+    "nodemon": "^2.0.13",
+    "python": "^0.0.4",
+    "studio": "^0.13.5",
+    "visual": "^0.0.1"
+  }
+}
